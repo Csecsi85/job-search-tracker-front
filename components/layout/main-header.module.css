@@ -1,0 +1,14 @@
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background: #ccc;
+}
+
+.nav-list {
+    display: flex;
+}
+
+.nav-list li {
+    margin-right: 15px;
+}
